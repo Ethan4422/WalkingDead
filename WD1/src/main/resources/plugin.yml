@@ -1,7 +1,0 @@
-name: WalkingDead
-version: '${project.version}'
-main: me.goodi.wd1.WD1
-api-version: 1.19
-commands:
-  timecycle:
-    description: test
